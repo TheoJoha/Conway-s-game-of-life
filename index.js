@@ -141,8 +141,6 @@ while (turns < 5) {
         templateLittoralstr += "\n"
     }
     console.log(templateLittoralstr)
-
-
 }
 
 

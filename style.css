@@ -1,0 +1,24 @@
+body {
+    /* display: inline-block; */
+}
+
+#first-row, #second-row, #third-row, #fourth-row, #fifth-row, #sixth-row, #seventh-row, #eighth-row {
+    /* display: flex;
+    flex-direction: row; */
+    /* width: 10%; 
+    display: inline-block; */
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+
+
+
+
+
+
+
+
